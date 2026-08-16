@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+01_data/cpsc_recalls_all.json
+01_data/cpsc_recalls_all.json.part
+results/
+_run/
+figure_*.png
+figure_*.svg
+figure_*.pdf
+table_recall_rate.md
